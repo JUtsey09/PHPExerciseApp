@@ -13,7 +13,6 @@ $exercise6 = 'Month long string of the day';
 
 $exercise7 = 'String of the day with levels';
 
-
 $day = date('N');
 
  
